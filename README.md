@@ -1,7 +1,10 @@
 # homework-3
--Created variables for various responses inputted by the user
 -Created variables for the various types of criteria to include in the password
--Created array
-    -Tried to push true statements from the user into an array otherwise, push nothing
-
-    Honestly, I ran into some blocks here and just did not give myself enough time to figure it out before the dealine. I'm going to complete the assignment on my own time.
+-Created variables and conditional statements for user input criteria for password
+-Created function to gather boolean responses from user inputs
+-Creatd empty array where characters will be populated
+-Push user selected password criteria into array
+-Created cuntion to generate the random password
+-Push the result of that into another empty array
+-Created object for criteria to be stored
+-Append password to textarea and converted array to string
